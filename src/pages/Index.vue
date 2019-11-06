@@ -17,7 +17,7 @@
 				<h2 class="text-3xl font-extrabold text-gray uppercase mb-10">Registration is FREE</h2>
 				<p class="mb-8">Women Pray.&trade; is a bi-monthly women's conference hosted by <a href="https://www.facebook.com/marcusdbattle">Tammy Battle</a>. It's purpose is to help women fight with faith, understanding and purpose.</p>
 				<p class="mb-8">The first conference will take place in Greensboro, NC on Friday, December 13th, 2019 from 7PM to 9PM at an undisclosed location. <span class="bg-yellow-400 text-black">The conference is FREE but registration is required.</span> Location will be provided to attendees after registration. (Hint: It's not at church)</p>
-				<a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://forms.gle/bWzboTZvc2dnHhXe8">Register Now</a>
+				<a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://forms.gle/jd6Yo5HSeCFZ8WLu7">Register Now</a>
 			</div>
 		</div>
 		<div id="footer" class="p-20 bg-black text-gray-400 text-center">
