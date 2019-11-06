@@ -8,7 +8,7 @@
 			</div>
 			<div class="w-full lg:w-2/4 p-20">
 				<h2 class="text-3xl font-extrabold text-gray uppercase mb-10">Before you react, Pray.</h2>
-				<p class="mb-8">This is the place to take the makeup off. To learn how to be the be strong but gentle. For the women seeking healing. How to create balance between a spiritual response and emotional response. This is where women learn how to fight!</p>
+				<p class="mb-8">This is the place to take the makeup off. To learn how to be strong yet gentle. For the women seeking healing. How to create balance between a spiritual response and emotional response. This is where women learn how to fight!</p>
 			</div>
 			
 		</div>
