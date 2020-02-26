@@ -51,7 +51,7 @@ export default {
 		background-image: url(~@/assets/images/women-pray-hero-march-2020.jpg);
 	}
 	#hero-mobile {
-		background-image: url(~@/assets/images/women-pray-hero-dec-2019-mobile.jpg);
+		background-image: url(~@/assets/images/women-pray-hero-march-2020-mobile.jpg);
 	}
 	#location {
 		background-image: url(~@/assets/images/hero-bg-ink-greensboro.jpg);
