@@ -2,6 +2,17 @@
 	<Layout>
 		<div id="hero" class="h-screen bg-black text-white bg-cover bg-center mb-20 hidden sm:block"></div>
 		<div id="hero-mobile" class="h-screen sm:hidden bg-no-repeat bg-black text-white bg-contain bg-center mb-20"></div>
+		<div id="t-shirt-giveaway" class="block sm:block lg:flex bg-fixed">
+			<div class="lg:w-2/4 sm:w-full lg:px-20 sm:px-10 text-gray-800 ">
+				<g-image src="~/assets/images/february-tshirt-giveaway.jpg" />
+			</div>
+			<div class="w-full lg:w-2/4 p-20">
+				<h2 class="text-3xl font-extrabold text-gray uppercase mb-10">February 2020 T-Shirt Giveaway</h2>
+				<p class="mb-8">Women Pray is giving T-shirts away for FREE. No strings attached. This shirt has helped women open up to strangers and share Jesus Christ. It also makes people more willing to ask for prayer.</p>
+				<p><strong>NOTE:</strong>We are giving out shirts until all shirts are gone and shipped. Only available to individuals in the US.</p>
+				<a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://forms.gle/1NpuP1mu2MZJQCJT8">Get FREE T-Shirt</a>
+			</div>
+		</div>
 		<div id="about" class="block sm:block lg:flex bg-fixed">
 			<div class="lg:w-2/4 sm:w-full lg:px-20 sm:px-10 text-gray-800 ">
 				<g-image src="~/assets/images/tammy-battle-headshot.jpg" />
