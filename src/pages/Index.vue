@@ -8,9 +8,9 @@
 			</div>
 			<div class="w-full lg:w-2/4 p-20">
 				<h2 class="text-3xl font-extrabold text-gray uppercase mb-10">February 2020 T-Shirt Giveaway</h2>
-				<p class="mb-8">Women Pray is giving T-shirts away for FREE. No strings attached. This shirt has helped women open up to strangers and share Jesus Christ. It also makes people more willing to ask for prayer.</p>
-				<p><strong>NOTE:</strong>We are giving out shirts until all shirts are gone and shipped. Only available to individuals in the US.</p>
-				<a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://forms.gle/1NpuP1mu2MZJQCJT8">Get FREE T-Shirt</a>
+				<p class="mb-8">Thank you so much for your desire to receive a WOMEN PRAY t-shirt. At this time we are currently out of stock due to the overwhelmingly amount of requests! We are working to get more shirts produced and in stock. Our hope is to continue to be a blessing by giving this away that help support our mission!</p>
+				<p class="mb-8">If you would like to join our mailing list for updates and upcoming events please do so below.</p>
+				<p><a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://mailchi.mp/d456bdc780ec/womenprayfaith">Join our list</a></p>
 			</div>
 		</div>
 		<div id="about" class="block sm:block lg:flex bg-fixed">
